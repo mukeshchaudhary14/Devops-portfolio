@@ -78,6 +78,8 @@ Dedicated DevOps Engineer with a solid background in infrastructure automation, 
 - Designed an interactive front-end UI with responsive web design for an enhanced user experience.
 - Integrated real-time room availability tracking and automated booking confirmations via email.
 - Ensured secure payment processing and data storage with SQL database optimization.
+
+  
 ---
 
 ## 🎓 Education
