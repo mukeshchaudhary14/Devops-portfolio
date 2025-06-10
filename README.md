@@ -37,7 +37,7 @@ Dedicated DevOps Engineer with a solid background in infrastructure automation, 
 
 - Improved inventory accuracy, reducing stock discrepancies and optimizing purchasing decisions.
 - Implemented a systematic billing process, enhancing efficiency in purchase and sales transactions.
-
+--- 
 2) **ESMSYS**  | Graphic Designer Intern   - **Sep 2023 – Mar 2024**
 
 
@@ -52,6 +52,8 @@ Dedicated DevOps Engineer with a solid background in infrastructure automation, 
 
 - Contributed to a 10% increase in engagement through visually appealing social media posts.
 - Designed branding assets for campaigns that reached a wider audience and improved brand identity.
+
+---
 
 ## 🚀 Projects
 
@@ -95,8 +97,7 @@ Dedicated DevOps Engineer with a solid background in infrastructure automation, 
 - **DevOps Zero to Hero** – Train with Shubham (2025)  
 - **Amazon AWS** – Eduonix (2025)  
 - **Crash Course on Python** – Google (2024)
-- **IIT Bombay (Spoken Tutorial)** – Python 3 (2023)                                                                                                                                                                
-- **Cyber Security Specialization**  – Google (2024)                                                                                                                                    2024
+- **IIT Bombay (Spoken Tutorial)** – Python 3 (2023)                                                                                                               - **Cyber Security Specialization**  – Google (2024)                                                                                                                                    
   
 ---
 ## Position of Responsilbility
@@ -109,6 +110,8 @@ Dedicated DevOps Engineer with a solid background in infrastructure automation, 
 - Participated **5+ technical workshops** on DevOps, Cloud Computing, and Automation tools.
 - Facilitated **collaborative learning sessions** on Git, Docker, Kubernetes, and CI/CD pipelines.
 
+
+---
 ## 🎯 Extra Curriculum Activities
 
 - **Social Service**      – Volunteered in community service programs, including blood donation camps and awareness drives. (2024)  
@@ -119,3 +122,4 @@ Dedicated DevOps Engineer with a solid background in infrastructure automation, 
                           – Passionate about strength training and physical fitness.
                           – Enthusiastic about athletics and regular participation in physical fitness activities
 
+---
