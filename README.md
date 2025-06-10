@@ -37,7 +37,8 @@ Dedicated DevOps Engineer with a solid background in infrastructure automation, 
 
 - Improved inventory accuracy, reducing stock discrepancies and optimizing purchasing decisions.
 - Implemented a systematic billing process, enhancing efficiency in purchase and sales transactions.
---- 
+
+
 2) **ESMSYS**  | Graphic Designer Intern   - **Sep 2023 – Mar 2024**
 
 
