@@ -23,7 +23,29 @@ Dedicated DevOps Engineer with a solid background in infrastructure automation, 
 ---
 
 ## 👨‍🏭 Experience
-1) **Shree Maruti Sales**  | Operations & Inventory Manager  - **Apr 2024 – Apr 2025**
+1) **TECHPLEMENT**  | AWS Cloud Engineer Intern  - **Apr 2025 –June 2025**
+
+
+**Roles & Responsibilities** 
+
+- Deployed and managed cloud-based applications on AWS using both monolithic and microservices architectures.
+- Launched and configured EC2 instances, ensuring high availability and scalability of services.
+- Installed and integrated WordPress and MySQL for real-time application deployment.
+- Configured security groups, key pairs, and IAM roles to maintain a secure cloud environment.
+- Ensured end-to-end connectivity between services and optimized performance through effective monitoring.
+- Participated in infrastructure automation using shell scripts and basic CI/CD workflows.
+- Collaborated with the development team to troubleshoot deployment issues and streamline release processes.
+- Documented deployment processes and created standard operating procedures (SOPs) for future reference.
+
+**Achievements**
+
+- Successfully deployed a full-stack WordPress-MySQL application on AWS within the first week of the internship.
+- Reduced manual deployment time by 30% through automated instance provisioning scripts.
+- Improved application uptime and reduced latency by optimizing EC2 and VPC configurations.
+- Recognized by the mentor team for quick learning and effective debugging during live deployment sessions.
+
+  
+2) **Shree Maruti Sales**  | Operations & Inventory Manager  - **Apr 2024 – Apr 2025**
 
 
 **Roles & Responsibilities** 
@@ -39,7 +61,7 @@ Dedicated DevOps Engineer with a solid background in infrastructure automation, 
 - Implemented a systematic billing process, enhancing efficiency in purchase and sales transactions.
 
 
-2) **ESMSYS**  | Graphic Designer Intern   - **Sep 2023 – Mar 2024**
+3) **ESMSYS**  | Graphic Designer Intern   - **Sep 2023 – Mar 2024**
 
 
 **Roles & Responsibilities** 
